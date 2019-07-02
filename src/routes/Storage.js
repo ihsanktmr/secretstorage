@@ -130,8 +130,8 @@ export default class Storage extends Component {
                     keyPrefix: 's3/',
                     bucket: 'secretstorage-v1',
                     region: 'us-east-1',  //us east 1 is N.Virginia
-                    accessKey: 'AKIAIEX2CP3ECVB3NDSA',
-                    secretKey: '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',
+                    accessKey: '',
+                    secretKey: '',
                     successActionStatus: 201
 
                 };
