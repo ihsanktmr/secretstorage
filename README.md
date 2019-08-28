@@ -1,7 +1,7 @@
 # secretstorage
 Cloud Based Storage App: React Native
 
-div class="row">
+<div class="row">
   <div class="column">
     <img src="http://ihsankatmer.tk/images/screenshot1.png" alt="Snow" style="width:100%">
   </div>
