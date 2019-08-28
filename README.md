@@ -8,5 +8,7 @@ Cloud Based Storage App: React Native
    <img src="http://ihsankatmer.tk/images/screenshot4.png" width="175">
 </p>
 
-<iframe src="http://ihsankatmer.tk/images/ihsancloudpaper.pdf" </iframe>
+Please see my scientific paper written for this application.
+
+http://ihsankatmer.tk/images/ihsancloudpaper.pdf
 
