@@ -1,5 +1,5 @@
 # secretstorage
-Cloud Based Storage App: React Native
+Cloud Based Storage App: React Native (iOS ✓)
 
 Please see the scientific paper I have written for this application.
 
