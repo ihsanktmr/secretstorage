@@ -1,11 +1,13 @@
 # secretstorage
 Cloud Based Storage App: 
 
+Project for Cloud Computing Course I have taken in Hochschule Fulda, Germany. It is course for MSc. students. Even though I am BSc. I could take this course as an exchange student and passed succesfully. 
+
 • React Native Application (iOS ✓)  <br>
 • Node.js Application ->> <a href="https://github.com/ihsanktmr/secretstorage1">https://github.com/ihsanktmr/secretstorage1</a>
 
 
-Please see the scientific paper I have written for this application.<br>
+Scientific paper I have written for this application.<br>
 
 http://ihsankatmer.tk/images/ihsancloudpaper.pdf
 
